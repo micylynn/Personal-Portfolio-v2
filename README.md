@@ -1,4 +1,6 @@
-### Personal-Portfolio-v2
+## Personal-Portfolio-v2
+**Created:** 2026 | **Status:** In-progress
+---
 
 ***Project description***</br>
 The website is build to show off/test my skills, it is a more personalised version of my portfolio v1.
